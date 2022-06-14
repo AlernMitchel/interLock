@@ -384,7 +384,7 @@ h1 em {
 
 h2 {
   margin-top: 3rem !important;
-  margin-right: 3.5rem !important;
+  /*margin-right: 3.5rem !important;*/
   font-weight: var(--h2-weight) !important;
   line-height: 1.2 !important;
   color: var(--primary-t-color) !important;
